@@ -4,7 +4,6 @@
 
 - <b>📊 Excel and Power BI Dashboards</b>
   - [Evaluating Patient Length of Stay: General Medicine vs. General Surgery](https://github.com/hongttran/Evaluating-Patient-Length-of-Stay-General-Medicine-vs.-General-Surgery/tree/main)
-  - [Assessing the Relationship Between BMI and Diabetes Pedigree Function](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Investigating the decline in hospital resource use over time](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Understanding Nurse Attrition: Key Insights & Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Nurse Attrition Analysis & Retention Strategies](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
