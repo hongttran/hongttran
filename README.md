@@ -4,8 +4,7 @@
 
 - <b>📊 Excel and Power BI Dashboards</b>
   - [Evaluating Patient Length of Stay: General Medicine vs. General Surgery](https://github.com/hongttran/Evaluating-Patient-Length-of-Stay-General-Medicine-vs.-General-Surgery/tree/main)
-  - [Understanding Nurse Attrition: Key Insights & Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Nurse Attrition Analysis & Retention Strategies](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Underderstanding Nurse Attrition: Analysis & Retention Strategies](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
  
   
 - <b>📈Statistical & Predictive Modeling</b>
