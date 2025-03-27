@@ -4,7 +4,7 @@
 
 - <b>📊 Data Analysis & Visualization</b>
   - [Evaluating Patient Length of Stay: General Medicine vs. General Surgery](https://github.com/hongttran/Evaluating-Patient-Length-of-Stay-General-Medicine-vs.-General-Surgery/tree/main)
-  - [Underderstanding Nurse Attrition: Analysis & Retention Strategies](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Underderstanding Nurse Attrition: Analysis & Retention Strategies](https://github.com/hongttran/Underderstanding-Nurse-Attrition-Analysis-Retention-Strategies/tree/main)
  
 - <b>📈Statistical & Predictive Modeling</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
