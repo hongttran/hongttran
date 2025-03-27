@@ -41,14 +41,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="HongTran | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg![Uploading image.png…]()
-" />][X]
-[<img align="left" alt="HongTran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-[X]: https://x.com/cyb3r_tr3n
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/hong-t-tran/)
-
+[twitter]: https://x.com/cyb3r_tr3n
+[linkedin]: https://www.linkedin.com/in/hong-t-tran/
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
