@@ -1,8 +1,8 @@
 <h1>Hi, I'm Hong! A <a href="https://www.linkedin.com/in/hong-t-tran/"> Business Intelligence Analyst </a>
 
-<h2>👨‍💻 Data Analysis & Visualization</h2>
+<h2>👨‍💻 Projects </h2>
 
-- <b>📊 Excel and Power BI Dashboards</b>
+- <b>📊 Data Analysis & Visualization</b>
   - [Evaluating Patient Length of Stay: General Medicine vs. General Surgery](https://github.com/hongttran/Evaluating-Patient-Length-of-Stay-General-Medicine-vs.-General-Surgery/tree/main)
   - [Underderstanding Nurse Attrition: Analysis & Retention Strategies](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
  
