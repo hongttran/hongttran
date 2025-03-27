@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hong! <br/><a href="https://github.com/hongttran">Programmer</a>, <a href="https://www.linkedin.com/in/hong-t-tran/">Business Intelligence Developer</a>
+<h1>Hi, I'm Hong! A <a href="https://www.linkedin.com/in/hong-t-tran/"> Business Intelligence Analyst </a>
 
 <h2>👨‍💻 Data Analysis & Visualization</h2>
 
