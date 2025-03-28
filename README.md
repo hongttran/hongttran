@@ -4,7 +4,7 @@
 
 - <b>📊 Data Analysis & Visualization</b>
   - [Evaluating Patient Length of Stay: General Medicine vs. General Surgery](https://github.com/hongttran/Evaluating-Patient-Length-of-Stay-General-Medicine-vs.-General-Surgery/tree/main)
-  - [Underderstanding Nurse Attrition: Analysis & Retention Strategies](https://github.com/hongttran/Underderstanding-Nurse-Attrition-Analysis-Retention-Strategies/tree/main)
+  - [Understanding Nurse Attrition: Analysis & Retention Strategies](https://github.com/hongttran/Underderstanding-Nurse-Attrition-Analysis-Retention-Strategies/tree/main)
  
 - <b>📈Statistical & Predictive Modeling with R</b>
   - [Phishing Email Analysis](https://github.com/joshmadakor1/Sentinel-Lab)
