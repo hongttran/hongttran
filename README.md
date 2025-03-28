@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analytics Projects: </h2>
 
-- <b>📊 Data Analysis & Visualization</b>
+- <b>📊 Data Analysis & Visualization with Excel and Power BI</b>
   - [Evaluating Patient Length of Stay: General Medicine vs. General Surgery](https://github.com/hongttran/Evaluating-Patient-Length-of-Stay-General-Medicine-vs.-General-Surgery/tree/main)
   - [Understanding Nurse Attrition: Analysis & Retention Strategies](https://github.com/hongttran/Underderstanding-Nurse-Attrition-Analysis-Retention-Strategies/tree/main)
  
