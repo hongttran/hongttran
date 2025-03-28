@@ -10,7 +10,7 @@
   - [Phishing Email Analysis](https://github.com/hongttran/Phishing-Email-Analysis)
 
 - <b>💾Data Management with SQL </b>
-  - [SpaceX Launch Performance](https://github.com/joshmadakor1/EncrypterPOC)
+  - [SpaceX Launch Performance](https://github.com/hongttran/SpaceX-Launch-Performance)
 
 - <b>🐍 Programming & Automation with Python </b>
   - [Analyzing Judo Competition Data](https://github.com/joshmadakor1/EncrypterPOC)
