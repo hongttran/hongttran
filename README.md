@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hong! A <a href="https://www.linkedin.com/in/hong-t-tran/"> Business Intelligence Analyst </a>
+<h1>Hi, I'm Hong! A <a href="https://www.linkedin.com/in/hong-t-tran/"> Business Intelligence Analyst, Cloud Security Engineer with a Threat Hunter Mindset </a>
 
 <h2>👨‍💻 Data Analytics Projects: </h2>
 
