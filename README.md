@@ -13,7 +13,7 @@
   - [SpaceX Launch Performance](https://github.com/hongttran/SpaceX-Launch-Performance)
 
 - <b>🐍 Programming & Automation with Python </b>
-  - [Analyzing Judo Competition Data](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Analyzing Judo Competition Data](https://github.com/hongttran/Analyzing-Judo-Competition-Data)
 
 <h2>👨‍💻 Cybersecurity Projects: </h2>
 
