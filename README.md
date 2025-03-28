@@ -18,19 +18,19 @@
 <h2>👨‍💻 Cybersecurity Projects: </h2>
 
 - <b>🔍 Misconfiguration detection via automation</b>
-  - [S3 Bucket Misconfiguration Scanner](https://github.com/hongttran/Evaluating-Patient-Length-of-Stay-General-Medicine-vs.-General-Surgery/tree/main)
+  - [S3 Bucket Misconfiguration Scanner](https://github.com/hongttran/aws-s3-security-scanner)
  
 - <b>🛡️ Secure infrastructure deployment with built-in IaC scanning</b>
-  - [Hardened Infrastructure-as-Code (IaC)](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Hardened Infrastructure-as-Code (IaC)](https://github.com/hongttran/secure-aws-terraform-templates)
 
 - <b>⚠️ Serverless threat detection via Lambda + alerting</b>
-  - [AWS Detection-as-Code Lab](https://github.com/joshmadakor1/EncrypterPOC)
+  - [AWS Detection-as-Code Lab](https://github.com/hongttran/aws-detection-as-code-lab)
 
 - <b>🔎 Manual and automated log analysis for hunting attacker behavior </b>
-  - [CloudTrail Threat Hunting Framework](https://github.com/joshmadakor1/EncrypterPOC)
+  - [CloudTrail Threat Hunting Framework](https://github.com/hongttran/cloudtrail-threat-hunting-lab)
 
 - <b>🎭 Red/blue lab simulating real-world adversary behavior</b>
-  - [Simulated APT in AWS using MITRE ATT&CK](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Simulated APT in AWS using MITRE ATT&CK](https://github.com/hongttran/aws-mitre-attack-simulation)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
