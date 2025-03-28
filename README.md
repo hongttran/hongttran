@@ -7,13 +7,13 @@
   - [Underderstanding Nurse Attrition: Analysis & Retention Strategies](https://github.com/hongttran/Underderstanding-Nurse-Attrition-Analysis-Retention-Strategies/tree/main)
  
 - <b>📈Statistical & Predictive Modeling with R</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Phishing Email Analysis](https://github.com/joshmadakor1/Sentinel-Lab)
 
 - <b>💾Data Management with SQL </b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [SpaceX Launch Performance](https://github.com/joshmadakor1/EncrypterPOC)
 
 - <b>🐍 Programming & Automation with Python </b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Analyzing Judo Competition Data](https://github.com/joshmadakor1/EncrypterPOC)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
