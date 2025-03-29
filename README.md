@@ -7,7 +7,7 @@
   - [Understanding Nurse Attrition: Analysis & Retention Strategies](https://github.com/hongttran/Underderstanding-Nurse-Attrition-Analysis-Retention-Strategies/tree/main)
  
 - <b>📈Statistical & Predictive Modeling with R</b>
-  - [Phishing Email Analysis](https://github.com/hongttran/Phishing-Email-Analysis)
+  - [Fake News Analysis](https://github.com/hongttran/Phishing-Email-Analysis)
 
 - <b>💾Data Management with SQL </b>
   - [SpaceX Launch Performance](https://github.com/hongttran/SpaceX-Launch-Performance)
